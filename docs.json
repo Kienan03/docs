@@ -19,7 +19,13 @@
       },
       {
         "group": "Trainer basics",
-        "pages": []
+        "pages": [
+          "trainers/overview",
+          "trainers/become-a-trainer",
+          "trainers/background-checks",
+          "trainers/gamechecks-and-drills",
+          "trainers/pricing-and-payouts"
+        ]
       },
       {
         "group": "Trainer rules",
