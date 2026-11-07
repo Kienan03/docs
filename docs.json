@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Hooper Howse",
   "colors": {
-    "primary": "#951ABE",
+    "primary": "#467F10",
     "light": "#7ECC23",
-    "dark": "#951ABE"
+    "dark": "#467F10"
   },
   "favicon": "/hh-favicon-simple.svg",
   "navigation": {
