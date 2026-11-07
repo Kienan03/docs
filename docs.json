@@ -16,6 +16,14 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Trainer basics",
+        "pages": []
+      },
+      {
+        "group": "Trainer rules",
+        "pages": []
       }
     ],
     "global": {
