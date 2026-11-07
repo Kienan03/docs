@@ -1,54 +1,56 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "Hooper Howse",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#951ABE",
+    "light": "#7ECC23",
+    "dark": "#951ABE"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/HH LOGO SVG.svg",
   "navigation": {
     "pages": [
       {
-        "group": "Getting Started",
+        "group": "Get started",
         "pages": [
-          "index",
-          "quickstart"
+          "index"
+        ]
+      },
+      {
+        "group": "Trainer basics",
+        "pages": [
+          "trainers/overview",
+          "trainers/become-a-trainer",
+          "trainers/background-checks",
+          "trainers/gamechecks-and-drills",
+          "trainers/pricing-and-payouts"
+        ]
+      },
+      {
+        "group": "Trainer rules",
+        "pages": [
+          "trainers/working-with-minors",
+          "trainers/training-safety",
+          "trainers/hooper-privacy",
+          "trainers/code-of-conduct",
+          "trainers/reporting-concerns",
+          "trainers/suspension-and-leaving"
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/HH FONT LOGO SVG.svg",
+    "dark": "/logo/HH FONT LOGO SVG.svg",
+    "href": "/"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@mintlify.com"
+        "href": "mailto:support@hooperhowse.com"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
+    ]
   },
   "contextual": {
     "options": [
@@ -61,12 +63,5 @@
       "cursor",
       "vscode"
     ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
   }
 }
