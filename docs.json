@@ -7,7 +7,7 @@
     "light": "#7ECC23",
     "dark": "#951ABE"
   },
-  "favicon": "/logo/HH LOGO SVG.svg",
+  "favicon": "/logo/Faviconballlogo.svg",
   "navigation": {
     "pages": [
       {
@@ -40,8 +40,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/HH FONT LOGO SVG.svg",
-    "dark": "/logo/HH FONT LOGO SVG.svg",
+    "light": "/logo/HHtextlogolinear.svg",
+    "dark": "/logo/HHtextlogolinear.svg",
     "href": "/"
   },
   "navbar": {
