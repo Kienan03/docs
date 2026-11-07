@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="512" height="512">
+  <circle cx="512" cy="512" r="508" fill="#0B0B0B"/>
+  <g transform="translate(512 500) scale(1.08) translate(-512 -500)">
+    <path fill="#7ECC23" fill-rule="evenodd" d="
+      M512 188 L822 400 L822 810 L205 810 L205 400 Z
+      M512 290 L725 420 L300 420 Z
+      M300 420 H390 V545 H300 Z
+      M300 650 H390 V810 H300 Z
+      M470 420 H554 V810 H470 Z
+      M635 420 H725 V545 H635 Z
+      M635 650 H725 V810 H635 Z"/>
+  </g>
+</svg>
